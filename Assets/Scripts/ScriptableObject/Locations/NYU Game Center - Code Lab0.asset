@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96ba3aaf7a625f2428566b3da49f43d4, type: 3}
+  m_Name: NYU Game Center - Code Lab0
+  m_EditorClassIdentifier: 
+  locationName: Code Lab 0
+  description: You saw Matt going to the south. Do you want to follow him?
+  locationNorth: {fileID: 0}
+  locationSouth: {fileID: 11400000, guid: 1fac9f198dbea3d4aaab68b0fa781535, type: 2}
+  locationEast: {fileID: 0}
+  locationWest: {fileID: 11400000, guid: 4d71b8ce1b323f8499ed7a6dc8fcfe5b, type: 2}

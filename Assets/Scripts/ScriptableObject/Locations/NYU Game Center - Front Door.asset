@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 96ba3aaf7a625f2428566b3da49f43d4, type: 3}
+  m_Name: NYU Game Center - Front Door
+  m_EditorClassIdentifier: 
+  locationName: Game Center Front Door
+  description: Let's go to class!
+  locationNorth: {fileID: 11400000, guid: 42b4386271cdf1f4aadc4930005e7606, type: 2}
+  locationSouth: {fileID: 11400000, guid: b38f828ebde97bb4b88771ac04ea5e98, type: 2}
+  locationEast: {fileID: 11400000, guid: 4d71b8ce1b323f8499ed7a6dc8fcfe5b, type: 2}
+  locationWest: {fileID: 11400000, guid: 6fa0ca384300d6545b8e0340e1b8b4b3, type: 2}
